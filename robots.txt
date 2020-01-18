@@ -1,0 +1,8 @@
+User-agent:Unnecessarybot
+Disallow:/
+
+User-agent:*
+Allow:/
+
+User-agent:*
+Disallow:/private_file.html
